@@ -1,2 +1,2 @@
 # SideQuests
-A curated assortment of my coding adventures and personal side projects. Discover diverse innovations, experiments, and ambitious ideas brought to life through code. Join me on a journey of growth, learning, and the excitement of transforming ideas into reality.
+Explore my collection of coding adventures and personal projects. Here, you'll find a variety of innovative, experimental, and ambitious ideas brought to life through code. Join me on a journey of growth and learning as I transform ideas into reality.
